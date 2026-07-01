@@ -1,0 +1,6 @@
+Aseem
+Software Engineer | Full Stack Developer | ServiceNow Developer
+
+Core focus: React, Node.js, ServiceNow, cloud-native delivery, automation, accessible UI, and polished engineering systems.
+
+Contact: hello@aseem.dev
